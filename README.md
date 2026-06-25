@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0371-sum-of-two-integers) |
+| [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
