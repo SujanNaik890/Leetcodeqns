@@ -1,122 +1,80 @@
 class Solution {
-     public int maximumSafenessFactor(List<List<Integer>> grid) {
+    public int maximumSafenessFactor(List<List<Integer>> grid) {
         int n = grid.size();
+        if (grid.get(0).get(0) == 1 || grid.get(n - 1).get(n - 1) == 1 || n == 1)
+            return 0;
+            
+        int arr[][] = new int[n][n];
 
-        int[][] dist = buildDistance(grid, n);
-
-        int low = 0;
-        int high = 0;
-        int ans = 0;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                high = Math.max(high, dist[i][j]);
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < n; j++) {
+                arr[i][j] = grid.get(i).get(j);
             }
         }
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (canReach(dist, mid, n)) {
-                ans = mid;
+        arr = updateMatrix(arr);
+        
+        int low = 0, high = (n - 1) * 2;
+        int mid = 0; 
+        int result = mid;
+        while(low <= high) {
+            mid = (high - low) / 2 + low;
+            if(dfs(arr,0, 0, mid, n, new boolean[n][n])) {
+                result = mid;
                 low = mid + 1;
-            } else {
-                high = mid - 1;
             }
+            else high = mid - 1;
         }
-
-        return ans;
+        return result;
     }
 
-    private int[][] buildDistance(List<List<Integer>> grid, int n) {
-        int[][] dist = new int[n][n];
+    public int[][] updateMatrix(int[][] matrix) {
+        int n = matrix.length;
 
-        for (int[] row : dist) {
-            Arrays.fill(row, -1);
-        }
-
-        Queue<int[]> queue = new LinkedList<>();
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid.get(i).get(j) == 1) {
-                    dist[i][j] = 0;
-                    queue.offer(new int[]{i, j});
+        for (int row = 0; row < n; row++) {
+            for (int col = 0; col < n; col++) {
+                matrix[row][col] ^= 1;
+                if (matrix[row][col] == 1) {
+                    matrix[row][col] = Integer.MAX_VALUE / 2;
                 }
             }
         }
 
-        int[][] dirs = {
-            {0, 1},
-            {1, 0},
-            {0, -1},
-            {-1, 0}
-        };
-
-        while (!queue.isEmpty()) {
-            int[] cell = queue.poll();
-            int row = cell[0];
-            int col = cell[1];
-
-            for (int[] dir : dirs) {
-                int newRow = row + dir[0];
-                int newCol = col + dir[1];
-
-                if (newRow >= 0 && newRow < n &&
-                    newCol >= 0 && newCol < n &&
-                    dist[newRow][newCol] == -1) {
-
-                    dist[newRow][newCol] = dist[row][col] + 1;
-                    queue.offer(new int[]{newRow, newCol});
-                }
+        for (int row = 0; row < n; row++) {
+            for (int col = 1; col < n; col++) {
+                matrix[row][col] = Math.min(matrix[row][col], matrix[row][col - 1] + 1);
+            }
+            for (int col = n - 2; col >= 0; col--) {
+                matrix[row][col] = Math.min(matrix[row][col], matrix[row][col + 1] + 1);
             }
         }
 
-        return dist;
+        for (int col = 0; col < n; col++) {
+            for (int row = 1; row < n; row++) {
+                matrix[row][col] = Math.min(matrix[row][col], matrix[row - 1][col] + 1);
+            }
+            for (int row = n - 2; row >= 0; row--) {
+                matrix[row][col] = Math.min(matrix[row][col], matrix[row + 1][col] + 1);
+            }
+        }
+
+        return matrix;
     }
+    
+    int[] dx = {-1, 1, 0, 0};
+    int[] dy = {0, 0, 1, -1};
+    boolean dfs(int arr[][], int r, int c, int mid, int n, boolean[][] visited) {
+        if(visited[r][c] || arr[r][c] < mid) return false;
+        if(r == n - 1 && c == n - 1) return true;
 
-    private boolean canReach(int[][] dist, int safeValue, int n) {
-        if (dist[0][0] < safeValue) {
-            return false;
+        visited[r][c] = true;
+        for(int i = 0; i < 4; i++) {
+            int x = r + dx[i];
+            int y = c + dy[i];
+
+            if(x == -1 || y == -1 || x == n || y == n) continue;
+            if(dfs(arr, x, y, mid, n, visited)) return true;
         }
-
-        boolean[][] visited = new boolean[n][n];
-        Queue<int[]> queue = new LinkedList<>();
-
-        queue.offer(new int[]{0, 0});
-        visited[0][0] = true;
-
-        int[][] dirs = {
-            {0, 1},
-            {1, 0},
-            {0, -1},
-            {-1, 0}
-        };
-
-        while (!queue.isEmpty()) {
-            int[] cell = queue.poll();
-            int row = cell[0];
-            int col = cell[1];
-
-            if (row == n - 1 && col == n - 1) {
-                return true;
-            }
-
-            for (int[] dir : dirs) {
-                int newRow = row + dir[0];
-                int newCol = col + dir[1];
-
-                if (newRow >= 0 && newRow < n &&
-                    newCol >= 0 && newCol < n &&
-                    !visited[newRow][newCol] &&
-                    dist[newRow][newCol] >= safeValue) {
-
-                    visited[newRow][newCol] = true;
-                    queue.offer(new int[]{newRow, newCol});
-                }
-            }
-        }
-
         return false;
     }
+
 }
