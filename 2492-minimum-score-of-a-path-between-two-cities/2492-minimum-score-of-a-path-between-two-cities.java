@@ -1,45 +1,40 @@
 class Solution {
-    public int minScore(int n, int[][] roads) {
+    private int[] parent;
+    private int[] minEdge;
 
-        List<List<int[]>> adj = new ArrayList<>();
-        for (int i = 0; i <= n; i++) {
-            adj.add(new ArrayList<>());
+    public int minScore(int n, int[][] roads) {
+        parent = new int[n+1];
+        minEdge = new int[n+1];
+
+        for (int i=0; i<=n; ++i) {
+            parent[i] = i;
+            minEdge[i] = Integer.MAX_VALUE;
         }
 
         for (int[] road : roads) {
-            int u = road[0];
-            int v = road[1];
-            int w = road[2];
-
-            adj.get(u).add(new int[]{v, w});
-            adj.get(v).add(new int[]{u, w});
+            union(road[0], road[1], road[2]);
         }
 
-        boolean[] vis = new boolean[n + 1];
-        Queue<Integer> q = new LinkedList<>();
+        return minEdge[find(1)];
+    }
 
-        q.offer(1);
-        vis[1] = true;
-
-        int ans = Integer.MAX_VALUE;
-
-        while (!q.isEmpty()) {
-
-            int node = q.poll();
-
-            for (int[] edge : adj.get(node)) {
-                int nei = edge[0];
-                int wt = edge[1];
-
-                ans = Math.min(ans, wt);
-
-                if (!vis[nei]) {
-                    vis[nei] = true;
-                    q.offer(nei);
-                }
-            }
+    private int find(int x) {
+        // path compression
+        while (parent[x] != x) {
+            parent[x] = parent[parent[x]];
+            x = parent[x];
         }
+        return x;
+    }
 
-        return ans;
+    private void union(int a, int b, int d) {
+        int parentA = find(a);
+        int parentB = find(b);
+        if (parentA != parentB) {
+            parent[parentA] = parentB;
+            minEdge[parentB] = Math.min(minEdge[parentB], Math.min(minEdge[parentA], d));
+        } else {
+            minEdge[parentA] = Math.min(minEdge[parentA], d);
+        }
     }
 }
