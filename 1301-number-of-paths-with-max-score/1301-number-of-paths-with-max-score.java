@@ -1,86 +1,60 @@
 class Solution {
-    long mod = (long)1e9+7;
-    public int[] pathsWithMaxScore(List<String> b) {
-        int m = b.size();
-        int n = b.get(0).length();
+    int[][] cnt;
+    Integer[][] dp;
 
-        long[][] dp0 = new long[m][n]; // max sum
-        long[][] dp1 = new long[m][n]; // count
+    public int[] pathsWithMaxScore(List<String> board) {
+        int n = board.size();
+        int m = board.get(0).length();
+        char[][] arr = new char[n][];
+        dp = new Integer[n][m];
+        cnt = new int[n][m];
 
-        // base case : 
-
-        // 0 0 
-        dp0[0][0] = 0;
-        dp1[0][0] = 1L; 
-
-        for(int i = 1;i < n;i++){
-            if(b.get(0).charAt(i) == 'X') break;
-            dp1[0][i] = 1L;
-
-            int num = b.get(0).charAt(i) - '0';
-            dp0[0][i] = dp0[0][i-1] + num;
+        for (int i = 0; i < n; i++) {
+            arr[i] = board.get(i).toCharArray();
         }
+        arr[0][0] = arr[n - 1][m - 1] = '0';
+        cnt[0][0] = 1;
 
-        for(int j = 1;j < m;j++){
-            if(b.get(j).charAt(0) == 'X') break;
+        int max = find(n - 1, m - 1, arr, n, m);
+        if (max < 0)
+            return new int[] { 0, 0 };
+        return new int[] { max, cnt[n - 1][m - 1] };
+    }
 
-            int num = b.get(j).charAt(0) - '0';
+    int inf = (int) 1e7;
+    int MOD = (int) 1e9 + 7;
 
-            dp0[j][0] = dp0[j-1][0] + num;
-            dp1[j][0] = 1L;
+    int find(int i, int j, char[][] arr, int n, int m) {
+        if (i == 0 && j == 0) {
+            return 0;
         }
+        if (dp[i][j] != null)
+            return dp[i][j];
 
-        for(int i = 1;i < m;i++){
-            for(int j = 1;j < n;j++){
+        int ans = -inf;
+        int knt = 0;
+        for (int[] d : dirs) {
+            int x = i + d[0];
+            int y = j + d[1];
 
-                // Transitions
-                // three transistions
-
-                if(b.get(i).charAt(j) == 'X') continue;
-
-                long max = 0;
-                // long cnt = 0;
-
-                int num = b.get(i).charAt(j) - '0';
-                if(i == m-1 && j == n-1){
-                    num = 0;
-                }
-
-                if(dp1[i-1][j] > 0)
-                    max = Math.max(max, dp0[i-1][j]);
-
-                if(dp1[i][j-1] > 0)
-                    max = Math.max(max, dp0[i][j-1]);
-
-                if(dp1[i-1][j-1] > 0)
-                    max = Math.max(max, dp0[i-1][j-1]);
-
-                if(b.get(i-1).charAt(j) != 'X'){
-                    if(max == dp0[i-1][j]){
-                        dp0[i][j] = max+num;
-                        dp1[i][j] = (dp1[i][j]%mod + dp1[i-1][j]%mod)%mod;
-                    }
-                }
-                if(b.get(i).charAt(j-1) != 'X'){
-                    if(max == dp0[i][j-1]){
-                        dp0[i][j] = max+num;
-                        dp1[i][j] = (dp1[i][j]%mod + dp1[i][j-1]%mod)%mod;
-                    }
-                }
-
-                if(b.get(i-1).charAt(j-1) != 'X'){
-                    if(max == dp0[i-1][j-1]){
-                        dp0[i][j] = max+num;
-                        dp1[i][j] = (dp1[i][j]%mod + dp1[i-1][j-1]%mod)%mod;
-                    }
+            if (isValid(x, y, n, m) && arr[x][y] != 'X') {
+                int res = find(x, y, arr, n, m) + arr[x][y] - '0';
+                if (ans == res) {
+                    knt += cnt[x][y];
+                    knt %= MOD;
+                } else if (res > ans) {
+                    knt = cnt[x][y];
+                    ans = res;
                 }
             }
         }
+        cnt[i][j] = knt;
+        return dp[i][j] = ans;
+    }
 
-        int[] ans = new int[2];
-        ans[0] = (int)dp0[m-1][n-1];
-        ans[1] = (int)(dp1[m-1][n-1]%mod);
+    int[][] dirs = { { -1, -1 }, { -1, 0 }, { 0, -1 } };
 
-        return ans;
+    boolean isValid(int i, int j, int n, int m) {
+        return i >= 0 && j >= 0 && i < n && j < m;
     }
 }
