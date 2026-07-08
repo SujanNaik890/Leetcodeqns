@@ -13,11 +13,16 @@ class Solution {
     // }
     //  return evencount;
     int count=0;
-    for(int n:nums){
+    // for(int n:nums){
       
-        if((int)(Math.log10(n)+1 )%2==0)count++;
-        // if(String.valueOf(n).length()%2==0)count++;
-    }
+    //     if((int)(Math.log10(n)+1 )%2==0)count++;
+    //     // if(String.valueOf(n).length()%2==0)count++;
+    // }
+    for(int i=0;i<nums.length;i++){
+            if(((int)Math.log10(nums[i])+1)%2==0){
+                count++;
+            }
+        }
     return count;
     }
 }
