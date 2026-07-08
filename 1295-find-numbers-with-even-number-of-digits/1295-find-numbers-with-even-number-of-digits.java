@@ -14,7 +14,9 @@ class Solution {
     //  return evencount;
     int count=0;
     for(int n:nums){
-        if(String.valueOf(n).length()%2==0)count++;
+        int digit=(int)Math.log10(n)+1;
+        if(digit%2==0)count++;
+        // if(String.valueOf(n).length()%2==0)count++;
     }
     return count;
     }
