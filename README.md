@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1301-number-of-paths-with-max-score) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1840-maximum-building-height](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1840-maximum-building-height) |
