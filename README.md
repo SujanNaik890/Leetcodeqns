@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1288-remove-covered-intervals) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3699-number-of-zigzag-arrays-i) |
