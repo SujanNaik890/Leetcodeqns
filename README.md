@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1840-maximum-building-height](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1840-maximum-building-height) |
+| [2485-find-the-pivot-integer](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2485-find-the-pivot-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3739-count-subarrays-with-majority-element-ii) |
