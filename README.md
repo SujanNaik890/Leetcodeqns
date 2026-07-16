@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1991-find-the-middle-index-in-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1991-find-the-middle-index-in-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2670-find-the-distinct-difference-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3737-count-subarrays-with-majority-element-i) |
