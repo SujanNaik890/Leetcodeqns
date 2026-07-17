@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -271,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3312-sorted-gcd-pair-queries) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
