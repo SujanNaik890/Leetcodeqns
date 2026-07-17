@@ -1,51 +1,45 @@
 class Solution {
     public int[] gcdValues(int[] nums, long[] queries) {
-        int n = nums.length;
-        int maxValue = Arrays.stream(nums).max().orElse(0);
-        int[] divisorCount = new int[maxValue + 1];
+        int max = 0;
+        for (int x : nums) max = Math.max(max, x);
 
-        for (int number : nums) {
-            for (int i = 1; i * i <= number; i++) {
-                if (number % i == 0) {
-                    divisorCount[i]++;
-                    if (i != number / i) {
-                        divisorCount[number / i]++;
-                    }
-                }
+        int[] freq = new int[max + 1];
+        for (int x : nums) freq[x]++;
+
+        long[] multiples = new long[max + 1];
+        for (int g = max; g >= 1; g--) {
+            long cnt = 0;
+            for (int m = g; m <= max; m += g) {
+                cnt += freq[m];
             }
+            multiples[g] = cnt;
         }
 
-        long[] gcdPairCount = new long[maxValue + 1];
-
-        for (int gcd = maxValue; gcd >= 1; gcd--) {
-            long count = divisorCount[gcd];
-            gcdPairCount[gcd] = count * (count - 1) / 2;
-            for (int multiple = 2 * gcd; multiple <= maxValue; multiple += gcd) {
-                gcdPairCount[gcd] -= gcdPairCount[multiple];
+        long[] exact = new long[max + 1];
+        for (int g = max; g >= 1; g--) {
+            long total = multiples[g] * (multiples[g] - 1) / 2;
+            for (int m = 2 * g; m <= max; m += g) {
+                total -= exact[m];
             }
+            exact[g] = total;
         }
 
-        long[] prefixSum = new long[maxValue + 1];
-        for (int gcd = 1; gcd <= maxValue; gcd++) {
-            prefixSum[gcd] = prefixSum[gcd - 1] + gcdPairCount[gcd];
+        long[] pref = new long[max + 1];
+        for (int g = 1; g <= max; g++) {
+            pref[g] = pref[g - 1] + exact[g];
         }
 
-        int[] result = new int[queries.length];
+        int[] ans = new int[queries.length];
         for (int i = 0; i < queries.length; i++) {
-            long query = queries[i];
-            long left = 1, right = maxValue, answer = -1;
-            while (left <= right) {
-                long mid = (left + right) / 2;
-                if (prefixSum[(int) mid] > query) {
-                    answer = mid;
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
+            long k = queries[i] + 1;
+            int lo = 1, hi = max;
+            while (lo < hi) {
+                int mid = (lo + hi) >>> 1;
+                if (pref[mid] >= k) hi = mid;
+                else lo = mid + 1;
             }
-            result[i] = (int) answer;
+            ans[i] = lo;
         }
-
-        return result;
+        return ans;
     }
 }
