@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1295-find-numbers-with-even-number-of-digits) |
