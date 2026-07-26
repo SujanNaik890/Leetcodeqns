@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
 | [0371-sum-of-two-integers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1025-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
