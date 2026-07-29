@@ -1,53 +1,66 @@
-import java.math.BigInteger;
 class Solution {
     public String smallestPalindrome(String s, int k) {
-        int n = s.length(), freq[] = new int[26];
-        for(int i = 0; i < n; i++)    ++freq[s.charAt(i) - 'a'];
-
-        char pal[] = new char[n / 2 + (n % 2)];
-        n /= 2;
-        for(int i = 0; i < 26; i++){
-            if(freq[i] % 2 != 0)    pal[n] = (char)(i + 'a');
-            freq[i] /= 2;
+        int[] freq = new int[26];
+        int n = s.length();
+        int cnt = 0;
+        long totalWays = 1L;
+        for(int i=0;i<n/2;i++){
+            freq[s.charAt(i)-'a']++;
         }
 
-        BigInteger k1 = BigInteger.valueOf(k);
-        BigInteger totalWays = fact(BigInteger.valueOf(n)).divide(duplicatePermu(freq));
-        if(totalWays.compareTo(k1) < 0) return "";
-
-        for(int i = 0; i < n; i++){
-            BigInteger slotInConsideration = BigInteger.valueOf(n - i);
-            for(int j = 0; j < 26; j++){
-                if(freq[j] > 0){
-                    BigInteger ways = totalWays.multiply(BigInteger.valueOf(freq[j]--));
-                    ways = ways.divide(slotInConsideration);
-                    if(ways.compareTo(k1) >= 0){
-                        pal[i] = (char)(j + 'a');
-                        totalWays = ways;
-                        break;
-                    }else{
-                        k1 = k1.subtract(ways);
-                        freq[j]++;
+        char[] alpha = {
+            'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+            'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'
+        };
+        StringBuilder sb = new StringBuilder();
+        outer : for(int i=25;i>=0;i--){
+            if(freq[i]==0)continue;
+            int j=1;
+            while(j<=freq[i]){
+                cnt++;
+                totalWays = (totalWays*cnt)/j;
+                if(totalWays>k){
+                    for(int l = 0;l<i;l++){
+                        while(freq[l]>0){
+                            sb.append(alpha[l]);
+                            freq[l]--;
+                        }
                     }
+                    while(freq[i]>j){
+                        sb.append(alpha[i]);
+                        freq[i]--;
+                    }
+                    break outer;
+                }
+                j++;
+            }
+        }
+        if(k>totalWays)return "";
+        
+        
+        for(int i=0;i<cnt;i++){
+            for(char ch= 'a';ch<='z';ch++){
+                int j = ch-'a';
+                if(freq[j]==0)continue;
+                if(k<=(totalWays*freq[j])/(cnt-i)){
+                   totalWays = (totalWays*freq[j])/(cnt-i);
+                   freq[j]--;
+                   sb.append(ch);
+                   break;
+                }
+                else{
+                    k = (int)(k - (totalWays*freq[j])/(cnt-i));
                 }
             }
         }
-        StringBuilder sb = new StringBuilder();
-        for(char ch: pal)  sb.append(ch);
-        for(int i = n - 1; i >= 0; i--) sb.append(pal[i]);
-        return sb.toString();
-    }
-    private BigInteger duplicatePermu(int freq[]){
-        BigInteger d = BigInteger.ONE;
-        for(int i: freq)    d = d.multiply(fact(BigInteger.valueOf(i)));
-        return d;
-    }
-    private BigInteger fact(BigInteger n){
-        BigInteger one = BigInteger.ONE, res = one, zero = BigInteger.ZERO;
-        while(n.compareTo(zero) > 0){
-            res = res.multiply(n);
-            n = n.subtract(one);
+        if(n%2==1){
+            sb.append(s.charAt(n/2));
         }
-        return res;
+
+        for(int i=n/2-1;i>=0;i--){
+            sb.append(sb.charAt(i));
+        }
+
+        return sb.toString();
     }
 }
