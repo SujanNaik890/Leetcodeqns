@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1191-k-concatenation-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1288-remove-covered-intervals) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1406-stone-game-iii) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2485-find-the-pivot-integer) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
@@ -399,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0206-reverse-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
