@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2670-find-the-distinct-difference-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2670-find-the-distinct-difference-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3312-sorted-gcd-pair-queries) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1991-find-the-middle-index-in-array) |
 | [2670-find-the-distinct-difference-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2670-find-the-distinct-difference-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3517-smallest-palindromic-rearrangement-i) |
