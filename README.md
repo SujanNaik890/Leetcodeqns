@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1991-find-the-middle-index-in-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2670-find-the-distinct-difference-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2670-find-the-distinct-difference-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
