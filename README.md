@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
+| [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0344-reverse-string) |
 | [0824-goat-latin](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0824-goat-latin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0507-perfect-number) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
