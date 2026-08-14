@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0371-sum-of-two-integers) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
