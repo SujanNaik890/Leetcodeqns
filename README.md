@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0507-perfect-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0357-count-numbers-with-unique-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
