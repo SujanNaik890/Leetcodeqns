@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2029-stone-game-ix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1840-maximum-building-height](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1840-maximum-building-height) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
