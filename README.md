@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
+| [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1154-day-of-the-year) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
+| [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1672-richest-customer-wealth) |
@@ -495,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
