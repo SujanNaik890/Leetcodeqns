@@ -6,7 +6,7 @@ class Solution {
             product *=n%10;
              n=n/10;
         }
-        // int dividend=sumproduct
+     
         return (num%(sum+product)==0)?true:false;
     }
 }
