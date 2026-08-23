@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1927-sum-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2485-find-the-pivot-integer) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
