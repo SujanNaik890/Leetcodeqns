@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0357-count-numbers-with-unique-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -518,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
