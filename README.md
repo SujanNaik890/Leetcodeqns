@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0031-next-permutation) |
+| [0059-spiral-matrix-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0059-spiral-matrix-ii) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1301-number-of-paths-with-max-score) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1929-concatenation-of-array) |
