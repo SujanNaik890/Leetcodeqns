@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
