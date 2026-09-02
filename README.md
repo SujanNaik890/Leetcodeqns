@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
 | [0824-goat-latin](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0824-goat-latin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1189-maximum-number-of-balloons) |
 | [1603-design-parking-system](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1603-design-parking-system) |
 | [2029-stone-game-ix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2029-stone-game-ix) |
