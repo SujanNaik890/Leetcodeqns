@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0824-goat-latin](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0824-goat-latin) |
+| [0940-distinct-subsequences-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1189-maximum-number-of-balloons) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1191-k-concatenation-maximum-sum) |
