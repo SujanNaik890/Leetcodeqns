@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0806-number-of-lines-to-write-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0806-number-of-lines-to-write-string) |
+| [0835-image-overlap](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0059-spiral-matrix-ii) |
+| [0835-image-overlap](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0835-image-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1301-number-of-paths-with-max-score) |
