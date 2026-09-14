@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1025-divisor-game) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
 ## Algorithm X
 |  |
