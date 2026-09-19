@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0892-surface-area-of-3d-shapes) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Algorithm X
 |  |
 | ------- |
