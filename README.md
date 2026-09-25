@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
+| [1096-brace-expansion-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0824-goat-latin) |
 | [0940-distinct-subsequences-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1096-brace-expansion-ii) |
 | [1154-day-of-the-year](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -568,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0357-count-numbers-with-unique-digits) |
+| [1096-brace-expansion-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
