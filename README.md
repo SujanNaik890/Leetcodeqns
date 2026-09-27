@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -540,10 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
@@ -634,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
