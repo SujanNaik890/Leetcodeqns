@@ -5,11 +5,12 @@ class Solution {
         for(int i=0;i<seq.length();i++){
             if(seq.charAt(i)== '('){
                 depth++;
-                res[i]=depth % 2;
+                res[i]=(depth % 2)^1;
             }else {
-                res[i]=depth%2;
+                res[i]=(depth%2)^1;
                 depth--;
             }
+
         }
         return res;
     }
