@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0678-valid-parenthesis-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0806-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0824-goat-latin) |
 | [0940-distinct-subsequences-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0940-distinct-subsequences-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0940-distinct-subsequences-ii) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1386-cinema-seat-allocation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
+| [0678-valid-parenthesis-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
