@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2685-count-the-number-of-complete-components) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0052-n-queens-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3348-smallest-divisible-digit-product-ii) |
