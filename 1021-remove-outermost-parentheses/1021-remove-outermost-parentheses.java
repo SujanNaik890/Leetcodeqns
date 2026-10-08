@@ -1,5 +1,10 @@
 class Solution {
-    public String removeOuterParentheses(String s) {
+     static {
+        for (int i = 0; i<300; i++) {
+            removeOuterParentheses("()");
+        }
+    }
+    public static String removeOuterParentheses(String s) {
         StringBuilder sb=new StringBuilder();
         int count=0;
         for(char ch:s.toCharArray()){
