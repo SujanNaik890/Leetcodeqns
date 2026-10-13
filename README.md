@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0031-next-permutation) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0206-reverse-linked-list) |
