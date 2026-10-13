@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0344-reverse-string) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0856-score-of-parentheses) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Minimax
