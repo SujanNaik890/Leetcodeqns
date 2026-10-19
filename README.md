@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2670-find-the-distinct-difference-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2670-find-the-distinct-difference-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1189-maximum-number-of-balloons) |
 | [1603-design-parking-system](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1603-design-parking-system) |
 | [2029-stone-game-ix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2029-stone-game-ix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1386-cinema-seat-allocation) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2333-minimum-sum-of-squared-difference) |
