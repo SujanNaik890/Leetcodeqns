@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1408-string-matching-in-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1408-string-matching-in-an-array) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1406-stone-game-iii) |
+| [1408-string-matching-in-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0459-repeated-substring-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
