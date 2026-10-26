@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
+| [0459-repeated-substring-pattern](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0678-valid-parenthesis-string) |
@@ -821,4 +822,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
