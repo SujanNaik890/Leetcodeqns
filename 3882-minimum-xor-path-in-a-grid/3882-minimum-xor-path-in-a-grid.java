@@ -1,43 +1,29 @@
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
+    private int ans;
+    private boolean[][][] memo;
+
     public int minCost(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-        
-        // dp[i][j] stores all possible XOR values to reach cell (i, j)
-        Set<Integer>[][] dp = new HashSet[m][n];
-        
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                dp[i][j] = new HashSet<>();
-            }
+        int startVal = grid[0][0];
+        ans = Integer.MAX_VALUE;
+        memo = new boolean[grid.length][grid[0].length][1024];
+        dfs(grid, 0, 0, 0, grid.length, grid[0].length);
+        return ans;
+    }
+
+    private void dfs(int[][] grid, int i, int j, int xor, int m, int n) {
+        xor ^= grid[i][j];
+        if (ans == 0)
+            return;
+        if (memo[i][j][xor])
+            return;
+        memo[i][j][xor] = true;
+        if (i == m - 1 && j == n - 1) {
+            ans = Math.min(ans, xor);
+            return;
         }
-        
-        dp[0][0].add(grid[0][0]);
-        
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                for (int xorVal : dp[i][j]) {
-                    // Move Down
-                    if (i + 1 < m) {
-                        dp[i + 1][j].add(xorVal ^ grid[i + 1][j]);
-                    }
-                    // Move Right
-                    if (j + 1 < n) {
-                        dp[i][j + 1].add(xorVal ^ grid[i][j + 1]);
-                    }
-                }
-            }
-        }
-        
-        // Find the minimum XOR value at the bottom-right cell (m - 1, n - 1)
-        int minXor = Integer.MAX_VALUE;
-        for (int xorVal : dp[m - 1][n - 1]) {
-            minXor = Math.min(minXor, xorVal);
-        }
-        
-        return minXor;
+        if (i + 1 < m)
+            dfs(grid, i + 1, j, xor, m, n);
+        if (j + 1 < n)
+            dfs(grid, i, j + 1, xor, m, n);
     }
 }
