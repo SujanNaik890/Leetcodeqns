@@ -1,134 +1,262 @@
 import java.util.*;
 
 class Solution {
-    class HLD {
-        int n, timer;
-        List<List<Integer>> adj;
-        int[] parent, depth, heavy, head, pos, tree;
-        
-        public HLD(int n, List<List<Integer>> adj, String s) {
-            this.n = n;
-            this.adj = adj;
-            parent = new int[n];
-            depth = new int[n];
-            heavy = new int[n];
-            head = new int[n];
-            pos = new int[n];
-            tree = new int[4 * n];
-            Arrays.fill(heavy, -1);
-            
-            dfs1(0, -1, 0);
-            timer = 0;
-            dfs2(0, 0);
-            
-            for (int i = 0; i < n; i++) {
-                updateTree(1, 0, n - 1, pos[i], 1 << (s.charAt(i) - 'a'));
-            }
+
+    int[] head, to, next;
+    int edgeCount;
+
+    int[] parent, depth, size, heavy;
+    int[] chainHead, pos;
+    int currentPos;
+
+    int[] segTree;
+
+    public List<Boolean> palindromePath(int n, int[][] edges,
+                                        String s, String[] queries) {
+
+        // Build adjacency list
+        head = new int[n];
+        Arrays.fill(head, -1);
+
+        to = new int[2 * (n - 1)];
+        next = new int[2 * (n - 1)];
+
+        for (int[] e : edges) {
+            addEdge(e[0], e[1]);
+            addEdge(e[1], e[0]);
         }
-        
-        private int dfs1(int u, int p, int d) {
-            parent[u] = p;
-            depth[u] = d;
-            int size = 1;
-            int maxSub = 0;
-            for (int v : adj.get(u)) {
-                if (v != p) {
-                    int sub = dfs1(v, u, d + 1);
-                    size += sub;
-                    if (sub > maxSub) {
-                        maxSub = sub;
-                        heavy[u] = v;
-                    }
-                }
-            }
-            return size;
+
+        parent = new int[n];
+        depth = new int[n];
+        size = new int[n];
+        heavy = new int[n];
+
+        Arrays.fill(parent, -1);
+        Arrays.fill(heavy, -1);
+
+        // Find subtree sizes and heavy child
+        dfs(0, -1);
+
+        chainHead = new int[n];
+        pos = new int[n];
+        currentPos = 0;
+
+        // Heavy-Light Decomposition
+        decompose(0, 0);
+
+        // Build array according to HLD positions
+        int[] values = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            values[pos[i]] = 1 << (s.charAt(i) - 'a');
         }
-        
-        private void dfs2(int u, int h) {
-            head[u] = h;
-            pos[u] = timer++;
-            if (heavy[u] != -1) {
-                dfs2(heavy[u], h);
-            }
-            for (int v : adj.get(u)) {
-                if (v != parent[u] && v != heavy[u]) {
-                    dfs2(v, v);
-                }
-            }
-        }
-        
-        private void updateTree(int node, int start, int end, int idx, int val) {
-            if (start == end) {
-                tree[node] = val;
-                return;
-            }
-            int mid = (start + end) / 2;
-            if (idx <= mid) {
-                updateTree(2 * node, start, mid, idx, val);
+
+        // Segment tree
+        segTree = new int[4 * n];
+        build(1, 0, n - 1, values);
+
+        char[] chars = s.toCharArray();
+
+        List<Boolean> answer = new ArrayList<>();
+
+        for (String query : queries) {
+
+            String[] parts = query.split(" ");
+
+            if (parts[0].equals("update")) {
+
+                int node = Integer.parseInt(parts[1]);
+                char newChar = parts[2].charAt(0);
+
+                chars[node] = newChar;
+
+                int mask = 1 << (newChar - 'a');
+
+                update(
+                    1,
+                    0,
+                    n - 1,
+                    pos[node],
+                    mask
+                );
+
             } else {
-                updateTree(2 * node + 1, mid + 1, end, idx, val);
+
+                int u = Integer.parseInt(parts[1]);
+                int v = Integer.parseInt(parts[2]);
+
+                int mask = queryPath(u, v);
+
+                // At most one character can have odd frequency
+                boolean possible =
+                    mask == 0 || (mask & (mask - 1)) == 0;
+
+                answer.add(possible);
             }
-            tree[node] = tree[2 * node] ^ tree[2 * node + 1];
         }
-        
-        private int queryTree(int node, int start, int end, int l, int r) {
-            if (r < start || end < l) return 0;
-            if (l <= start && end <= r) return tree[node];
-            int mid = (start + end) / 2;
-            return queryTree(2 * node, start, mid, l, r) ^ queryTree(2 * node + 1, mid + 1, end, l, r);
-        }
-        
-        public void update(int u, char c, StringBuilder sb) {
-            sb.setCharAt(u, c);
-            updateTree(1, 0, n - 1, pos[u], 1 << (c - 'a'));
-        }
-        
-        public boolean query(int u, int v) {
-            int res = 0;
-            while (head[u] != head[v]) {
-                if (depth[head[u]] > depth[head[v]]) {
-                    int temp = u;
-                    u = v;
-                    v = temp;
-                }
-                res ^= queryTree(1, 0, n - 1, pos[head[v]], pos[v]);
-                v = parent[head[v]];
+
+        return answer;
+    }
+
+    // ---------- Graph ----------
+
+    void addEdge(int u, int v) {
+        to[edgeCount] = v;
+        next[edgeCount] = head[u];
+        head[u] = edgeCount++;
+    }
+
+    // ---------- First DFS ----------
+
+    void dfs(int node, int par) {
+
+        parent[node] = par;
+        size[node] = 1;
+
+        int maxSize = 0;
+
+        for (int e = head[node]; e != -1; e = next[e]) {
+
+            int child = to[e];
+
+            if (child == par)
+                continue;
+
+            depth[child] = depth[node] + 1;
+
+            dfs(child, node);
+
+            size[node] += size[child];
+
+            if (size[child] > maxSize) {
+                maxSize = size[child];
+                heavy[node] = child;
             }
-            if (depth[u] > depth[v]) {
+        }
+    }
+
+    // ---------- Heavy-Light Decomposition ----------
+
+    void decompose(int node, int chain) {
+
+        chainHead[node] = chain;
+        pos[node] = currentPos++;
+
+        // Continue through heavy child
+        if (heavy[node] != -1) {
+            decompose(heavy[node], chain);
+        }
+
+        // Start new chains for light children
+        for (int e = head[node]; e != -1; e = next[e]) {
+
+            int child = to[e];
+
+            if (child == parent[node] || child == heavy[node])
+                continue;
+
+            decompose(child, child);
+        }
+    }
+
+    // ---------- Segment Tree ----------
+
+    void build(int node, int left, int right, int[] arr) {
+
+        if (left == right) {
+            segTree[node] = arr[left];
+            return;
+        }
+
+        int mid = (left + right) / 2;
+
+        build(node * 2, left, mid, arr);
+        build(node * 2 + 1, mid + 1, right, arr);
+
+        segTree[node] =
+            segTree[node * 2] ^
+            segTree[node * 2 + 1];
+    }
+
+    void update(int node, int left, int right,
+                int index, int value) {
+
+        if (left == right) {
+            segTree[node] = value;
+            return;
+        }
+
+        int mid = (left + right) / 2;
+
+        if (index <= mid) {
+            update(node * 2, left, mid, index, value);
+        } else {
+            update(node * 2 + 1, mid + 1, right, index, value);
+        }
+
+        segTree[node] =
+            segTree[node * 2] ^
+            segTree[node * 2 + 1];
+    }
+
+    int query(int node, int left, int right,
+              int ql, int qr) {
+
+        if (qr < left || right < ql)
+            return 0;
+
+        if (ql <= left && right <= qr)
+            return segTree[node];
+
+        int mid = (left + right) / 2;
+
+        return query(node * 2, left, mid, ql, qr)
+             ^ query(node * 2 + 1, mid + 1, right, ql, qr);
+    }
+
+    // ---------- Tree Path Query ----------
+
+    int queryPath(int u, int v) {
+
+        int result = 0;
+
+        while (chainHead[u] != chainHead[v]) {
+
+            // Always move the deeper chain upward
+            if (depth[chainHead[u]] <
+                depth[chainHead[v]]) {
+
                 int temp = u;
                 u = v;
                 v = temp;
             }
-            res ^= queryTree(1, 0, n - 1, pos[u], pos[v]);
-            return (res & (res - 1)) == 0;
-        }
-    }
 
-    public List<Boolean> palindromePath(int n, int[][] edges, String s, String[] queries) {
-        List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
-        for (int[] e : edges) {
-            adj.get(e[0]).add(e[1]);
-            adj.get(e[1]).add(e[0]);
+            result ^= query(
+                1,
+                0,
+                pos.length - 1,
+                pos[chainHead[u]],
+                pos[u]
+            );
+
+            u = parent[chainHead[u]];
         }
-        
-        StringBuilder sb = new StringBuilder(s);
-        HLD hld = new HLD(n, adj, s);
-        List<Boolean> ans = new ArrayList<>();
-        
-        for (String q : queries) {
-            String[] parts = q.split(" ");
-            if (parts[0].equals("update")) {
-                int u = Integer.parseInt(parts[1]);
-                char c = parts[2].charAt(0);
-                hld.update(u, c, sb);
-            } else {
-                int u = Integer.parseInt(parts[1]);
-                int v = Integer.parseInt(parts[2]);
-                ans.add(hld.query(u, v));
-            }
+
+        // Same chain
+        if (depth[u] > depth[v]) {
+            int temp = u;
+            u = v;
+            v = temp;
         }
-        
-        return ans;
+
+        result ^= query(
+            1,
+            0,
+            pos.length - 1,
+            pos[u],
+            pos[v]
+        );
+
+        return result;
     }
 }
