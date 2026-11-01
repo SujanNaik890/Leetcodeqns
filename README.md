@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
 | [0459-repeated-substring-pattern](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0678-valid-parenthesis-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0806-number-of-lines-to-write-string) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0977-squares-of-a-sorted-array) |
