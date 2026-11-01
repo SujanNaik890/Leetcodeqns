@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0561-array-partition) |
