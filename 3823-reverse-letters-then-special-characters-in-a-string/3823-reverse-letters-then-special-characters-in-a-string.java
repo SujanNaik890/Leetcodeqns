@@ -1,23 +1,36 @@
 class Solution {
     public String reverseByType(String s) {
-        Stack<Character> stack1 = new Stack<>();
-        Stack<Character> stack2 = new Stack<>();
-        for(char ch : s.toCharArray()){
-            if(Character.isLetter(ch)){
-                stack1.push(ch);
-            }
-            else{
-                stack2.push(ch);
-            }
+        char []arr=s.toCharArray();
+        int l=0;
+        int r=arr.length-1;
+        while(l<r){
+        while(l<r && !Character.isLetter(arr[l])){
+            l++;
         }
-
-        StringBuilder sb = new StringBuilder();
-        for(char ch : s.toCharArray()){
-            if(Character.isLetter(ch)){
-                sb.append(stack1.pop());
-            }
-            else sb.append(stack2.pop());
+        while(l<r && !Character.isLetter(arr[r])){
+            r--;
         }
-        return sb.toString();
+        char t=arr[l];
+        arr[l]=arr[r];
+        arr[r]=t;
+        l++;
+        r--;
+        }
+        l=0;
+        r=arr.length-1;
+        while(l<r){
+        while(l<r && Character.isLetter(arr[l])){
+            l++;
+        }
+        while(l<r && Character.isLetter(arr[r])){
+            r--;
+        }
+        char t=arr[l];
+        arr[l]=arr[r];
+        arr[r]=t;
+        l++;
+        r--;
+        }
+        return new String(arr);
     }
 }
