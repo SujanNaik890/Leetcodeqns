@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3498-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
