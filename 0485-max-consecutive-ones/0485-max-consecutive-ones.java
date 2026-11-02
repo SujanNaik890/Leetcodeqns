@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==1){
                 len++;
-                maxlen=Math.max(maxlen,len);
+                if(maxlen<len)maxlen=len;
             }
             else{
                 len=0;
