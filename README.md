@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0383-ransom-note) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0539-minimum-time-difference) |
