@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
