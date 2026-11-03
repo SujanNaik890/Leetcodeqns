@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0171-excel-sheet-column-number) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0204-count-primes) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0486-predict-the-winner) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
@@ -895,4 +900,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
