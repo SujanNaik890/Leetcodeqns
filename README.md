@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0704-binary-search) |
@@ -893,4 +894,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
