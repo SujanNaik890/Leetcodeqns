@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0806-number-of-lines-to-write-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0806-number-of-lines-to-write-string) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
