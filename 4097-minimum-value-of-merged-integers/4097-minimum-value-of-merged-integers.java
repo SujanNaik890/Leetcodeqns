@@ -4,7 +4,7 @@ class Solution {
 
         for(int i=0;i<nums.length;i+=2){
             int merged=Integer.parseInt(String.valueOf(nums[i])+String.valueOf(nums[i+1]));
-            min=Math.min(min,merged);
+           if(min>merged)min=merged;
         }
         return min;
     }
