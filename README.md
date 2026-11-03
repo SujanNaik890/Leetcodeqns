@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0441-arranging-coins) |
@@ -888,4 +889,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0459-repeated-substring-pattern) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
