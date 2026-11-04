@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0806-number-of-lines-to-write-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0806-number-of-lines-to-write-string) |
 | [0835-image-overlap](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0835-image-overlap) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1021-remove-outermost-parentheses) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Brainteaser
 |  |
