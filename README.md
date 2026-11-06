@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0386-lexicographical-numbers) |
 | [1254-number-of-closed-islands](https://github.com/SujanNaik890/Leetcodeqns/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2685-count-the-number-of-complete-components) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/SujanNaik890/Leetcodeqns/tree/master/0386-lexicographical-numbers) |
 ## Brute-Force Search
 |  |
 | ------- |
