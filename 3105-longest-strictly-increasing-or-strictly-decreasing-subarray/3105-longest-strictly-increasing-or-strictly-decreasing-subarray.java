@@ -14,7 +14,7 @@ class Solution {
                 inc=1;
                 dec=1;
             }
-            max=Math.max(max,Math.max(inc,dec));
+            max = (max > ((inc > dec) ? inc : dec)) ? max : ((inc > dec) ? inc : dec);  
         }
         return max;
     }
