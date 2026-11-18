@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SujanNaik890/Leetcodeqns/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/SujanNaik890/Leetcodeqns/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
